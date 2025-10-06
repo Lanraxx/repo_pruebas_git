@@ -5,3 +5,4 @@ def sub(a,b):
 
 if __name__ == '__main__':
     print(sum(1,2))
+    print(sub(2,1))
